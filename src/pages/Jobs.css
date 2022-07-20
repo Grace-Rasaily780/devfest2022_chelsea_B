@@ -1,0 +1,9 @@
+.jobs {
+    padding: 5%;
+}
+
+h1 {
+    font-weight: 700;
+    color: var(--darkblue);
+    
+}

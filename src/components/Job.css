@@ -1,0 +1,24 @@
+.job {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 3% 0;
+}
+
+.job .job_text p {
+    margin-bottom: 5px;
+}
+
+.job .job_text .job_name {
+    font-size: 1.4rem;
+    font-weight: 700;
+}
+
+.job .job_text .job_desciption {
+    font-weight: 500;
+}
+
+.job a {
+    text-decoration: none;
+    color: var(--darkred);
+}
