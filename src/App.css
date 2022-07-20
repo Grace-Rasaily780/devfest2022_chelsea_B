@@ -69,8 +69,8 @@
         font-size: 18px;
         border: none;
         outline: none;
-        background-color: var(--white);
-        color: var(--yellow);
+        background-color: var(--darkred);
+        color: var(--white);
         cursor: pointer;
         padding: 9px;
         border-radius: 100%;
